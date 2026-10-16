@@ -1,0 +1,29 @@
+{
+  "v": 1,
+  "updatedAt": "2026-10-16T15:02:06.639Z",
+  "users": [
+    {
+      "id": "umvb3j8dr3hsbv",
+      "name": "مدير المنصة",
+      "salt": "7K3H0wieMy0QyEGgIJaPPQ==",
+      "mac": "Yu9gOhb1WzU4bnR6rSDLWNo9riK1zooRg4I4R6jgqiM=",
+      "alg": "pbkdf2",
+      "key": {
+        "v": 1,
+        "iv": "toevMCBL+sPnqzHq",
+        "data": "+K6h6vNK/xMMGXyrhPLqrZ7JeFBZUeC5MrmzjlQIDAEF5DcZqvr7GPILeqDUpX5WMEdCcraLFsWmYjEqZDQq88JqD0K23A=="
+      },
+      "role": "admin",
+      "createdAt": 1792162926639,
+      "updatedAt": 1792162926639,
+      "lastSeen": 1792162926639,
+      "recovery": null,
+      "summary": {
+        "attempts": 0,
+        "best": 0,
+        "bank": 0,
+        "name": "مدير المنصة"
+      }
+    }
+  ]
+}
