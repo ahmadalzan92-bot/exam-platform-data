@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updatedAt": "2026-10-16T15:06:24.923Z",
+  "updatedAt": "2026-10-16T15:07:09.129Z",
   "users": [
     {
       "id": "umvb3j8dr3hsbv",
@@ -16,7 +16,7 @@
       "role": "admin",
       "createdAt": 1792162926639,
       "updatedAt": 1792163184923,
-      "lastSeen": 1792162927824,
+      "lastSeen": 1792163229128,
       "recovery": null,
       "summary": {
         "attempts": 0,
