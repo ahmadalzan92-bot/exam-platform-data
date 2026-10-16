@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updatedAt": "2026-10-16T15:25:33.973Z",
+  "updatedAt": "2026-10-16T15:26:02.427Z",
   "users": [
     {
       "id": "umvb3j8dr3hsbv",
@@ -38,17 +38,16 @@
       },
       "role": "user",
       "createdAt": 1792163134104,
-      "updatedAt": 1792163293597,
-      "lastSeen": 1792164333973,
+      "updatedAt": 1792164362427,
+      "lastSeen": 1792163263901,
       "recovery": {
         "v": 1,
         "iv": "QrL9c8tW1quf7CtH",
         "data": "xFNvJpeGDlhxUN/Qs/IyZYztBX/2gw0dMNrtjBJ9wQAcoS79/jXBRa+Wp3XOr52SfTgwkjtElLevzJwNg2eAyPpnRRocMg=="
       },
       "summary": {
-        "attempts": 0,
-        "best": 0,
-        "bank": 0,
+        "attempts": 1,
+        "bank": 1,
         "name": "طالب تجريبي"
       },
       "pin": ""
