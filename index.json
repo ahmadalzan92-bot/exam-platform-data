@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updatedAt": "2026-10-16T15:07:09.129Z",
+  "updatedAt": "2026-10-16T15:08:13.597Z",
   "users": [
     {
       "id": "umvb3j8dr3hsbv",
@@ -16,7 +16,7 @@
       "role": "admin",
       "createdAt": 1792162926639,
       "updatedAt": 1792163184923,
-      "lastSeen": 1792163229128,
+      "lastSeen": 1792162927824,
       "recovery": null,
       "summary": {
         "attempts": 0,
@@ -28,18 +28,18 @@
     {
       "id": "umvb3nogovchtk",
       "name": "طالب تجريبي",
-      "salt": "YcOTXGYNXIBcu+AWEuoD8w==",
-      "mac": "3CGuHdmfe5wqKMMc8JsRSv4FbbLYwgcbtS5D26uoIVo=",
+      "salt": "NOS1KO7Rv5DGWOodWRqpug==",
+      "mac": "ltF/OwOb/VA2GDhCtZXsK3/0BljbJ+NkjYqWqqvgwe4=",
       "alg": "pbkdf2",
       "key": {
         "v": 1,
-        "iv": "LE/2yjv7Ih9aU+vM",
-        "data": "XDeR6Gyr36IApUrh/YgXf7XL92gTealnhNDmrfTe9NPuGa6ykArbRndUafk0TbYYD89oKvg7iB9ggIjIckgVNpGUUsyF9Q=="
+        "iv": "+V5aWoQW1R5TZoa2",
+        "data": "dy2h2obYia6j/RCbmkTfJRClHJ8FtkCHcAyCfbzFkpXz7MQdAseEdgzLWnz5Ya3ZaBLreGwQtMaSLYDmP3ORcy/7evuvRQ=="
       },
       "role": "user",
       "createdAt": 1792163134104,
-      "updatedAt": 1792163134104,
-      "lastSeen": 1792163134104,
+      "updatedAt": 1792163293597,
+      "lastSeen": 1792163263901,
       "recovery": {
         "v": 1,
         "iv": "QrL9c8tW1quf7CtH",
@@ -50,7 +50,8 @@
         "best": 0,
         "bank": 0,
         "name": "طالب تجريبي"
-      }
+      },
+      "pin": ""
     }
   ]
 }
